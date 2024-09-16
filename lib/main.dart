@@ -99,7 +99,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                   SizedBox(height: 8),
 
-                  Text('OR', style: TextStyle(fontSize: 18,
+                  Text('OR', style: TextStyle(fontSize: 20,
                    fontWeight: FontWeight.bold),),
 
                   SizedBox(height: 8),
